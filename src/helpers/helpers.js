@@ -1,6 +1,6 @@
 // Importing axios to create requests to my API
 import axios from "axios";
-const baseURL = "https://task-management-backend-app.herokuapp.com/";
+const baseURL = "https://task-management-backend-app.herokuapp.com/tasks/";
 
 // function to handle Errors on API
 // receives our success functions but if
